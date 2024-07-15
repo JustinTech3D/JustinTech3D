@@ -8,4 +8,9 @@
   
   - [Utilized Wireshark to capture and analyzed PCAPs](https://github.com/)
   
-  - [Utilized tcpdump to capture and analyzed TCP Traffic](https://github.com/)
+  - [Analyze, investigate and process Malicious and Phishing Email alerts](https://github.com/)
+  
+  - [Vulnerability Management with Nessus](https://github.com/)
+ 
+  - [ Active Directory Home Lab](https://github.com/)
+
